@@ -1,0 +1,34 @@
+body{
+    font-weight:bold;
+    margin-top: 100px;
+    padding-left: 300px;
+        
+    background-color:white;
+    width:800px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE5VZ3ix4dH_A3DS0ysXjZkF7PUcG3SUwgkA&usqp=CAU);
+    background-position: center;
+    background-size: cover;
+}
+.c0{
+    color:blue;
+}
+.c5 button{
+    color:white;
+    background-color:#0A6CC6;
+}
+.container{
+    background-color:white;
+    width:700px;
+    border:1px solid black;
+}
+.c6 button{
+    color:white;
+    background-color:green;
+    width:100px;
+    padding-bottom: 7px;
+    padding-right: 15px;
+    padding-top: 8px;
+}
+.fbimg{
+    padding-right: 200px;
+}
