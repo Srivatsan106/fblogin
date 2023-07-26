@@ -1,0 +1,50 @@
+.instagram{
+    width:300px;
+    padding:3% 25%;
+    
+}
+form{
+    text-align: center;
+}
+.account,.signup{
+    display:inline;
+    text-align: center;
+    margin-bottom: 200px;
+    margin-left: 200px;
+}
+.appstore,.playstore{
+    width:200px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.username,.password{
+    padding:7px 50px;
+    margin:5px;
+    background-color: white;
+    border:none;
+}
+.login{
+    margin:5px;
+    padding:7px 115px;
+    background-color: blue;
+    color:white;
+    border:0px;
+    border-radius: 2px;
+}
+.fp{
+    padding:10px;
+    text-decoration:none;
+}
+form{
+    border:2px grey solid;
+    padding:100px 0px;
+    margin-left:350px;
+    margin-right:350px;
+    border-radius: 3px;
+}
+.gta,.googleplay,.appstore,.signup{
+    text-align: center;
+}
+.container{
+    background-image: url(https://e0.pxfuel.com/wallpapers/243/299/desktop-wallpaper-smart-phone-1-instagram-story-background-pink-and-teal.jpg);
+}
